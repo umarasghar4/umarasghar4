@@ -78,7 +78,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarasghar4&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarasghar4E&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarasghar4&layout=compact)
 
 ---
 
