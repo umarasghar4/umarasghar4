@@ -1,4 +1,4 @@
-# Assalamu Alaikum, I'm Umar Asghar 👋
+# Hi, I'm Umar Asghar 👋
 
 ## About Me
 
