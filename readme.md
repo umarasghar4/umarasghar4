@@ -2,9 +2,7 @@
 
 ## About Me
 
-🎓 Computer Science Student from Pakistan
-
-📊 Aspiring Data Analyst & AI Enthusiast
+🎓 Data Science Student from Fast, Islamabad
 
 🤖 Currently exploring:
 - Machine Learning
